@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Artwork_-_Edit_Me" data-name="Artwork - Edit Me" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1791ff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-4" width="1024" height="1024"/>
+    </clipPath>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="70"/>
+      <feFlood flood-color="#842fd3" flood-opacity=".8"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" width="1024" height="1024"/>
+  <g class="cls-3">
+    <image width="5000" height="3500" transform="translate(-278 -43.5) scale(.32)" xlink:href="../Downloads/luke-chesser-IGtutkXikuc-unsplash.jpg"/>
+  </g>
+  <path class="cls-2" d="m313.41,127c-18.65,0-33.66,15.01-33.66,33.66,0,54.55,32.81,83.3,54.83,102.51l1.54,1.4c22.86,19.91,33.38,30.57,33.38,53.15,0,18.65,15.01,33.66,33.66,33.66s33.66-15.01,33.66-33.66c0-54.55-32.81-83.3-54.83-102.51l-1.54-1.4c-22.86-19.91-33.38-30.57-33.38-53.15,0-18.65-15.01-33.66-33.66-33.66Zm-78.53,269.25c-24.82,0-44.88,20.05-44.88,44.88v269.25c0,74.32,60.3,134.62,134.62,134.62h269.25c74.32,0,134.62-60.3,134.62-134.62h22.44c86.81,0,157.06-70.26,157.06-157.06s-70.26-157.06-157.06-157.06H234.88Zm493.62,89.75h22.44c37.16,0,67.31,30.15,67.31,67.31s-30.15,67.31-67.31,67.31h-22.44v-134.62Zm-224.38-325.34c0-18.65-15.01-33.66-33.66-33.66s-33.66,15.01-33.66,33.66c0,54.55,32.81,83.3,54.83,102.51l1.54,1.4c22.86,19.91,33.38,30.57,33.38,53.15,0,18.65,15.01,33.66,33.66,33.66s33.66-15.01,33.66-33.66c0-54.55-32.81-83.3-54.83-102.51l-1.54-1.4c-22.86-19.91-33.38-30.57-33.38-53.15Z"/>
+</svg>
