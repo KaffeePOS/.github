@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/KaffeePOS/.github/main/KaffeePOS_App_Icon.png" width="100px" height="100px" />
+
 # KaffeePOS
 
 KaffeePOS ist eine Point-of-Sale (POS) App für Cafés und Kaffeehäuser. Mit unserem benutzerfreundlichen und intuitiven Kassensystem können Sie Bestellungen schnell und einfach aufnehmen, Zahlungen abwickeln, Rabatte gewähren und Bestandsverwaltung durchführen - alles in einem nahtlosen Workflow.
